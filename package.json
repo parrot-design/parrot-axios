@@ -1,6 +1,6 @@
 {
   "name": "@parrotjs/axios",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "",
   "main": "dist/parrotaxios.cjs.js",
   "module": "dist/parrotaxios.esm.js",
